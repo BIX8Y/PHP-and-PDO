@@ -1,4 +1,4 @@
-# PHP-PDO-Surname
-**Name:** John Doe  
-**Program:** BS Computer Science  
-**Course Code:** CS101
+# PHP-PDO-VENERACION
+**Name:** VENERACION, KURT BENEDICT P.
+**Program:** BSIT 2ND YEAR  
+**Course Code:** IT6314
